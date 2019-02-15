@@ -9,5 +9,6 @@ plan_sprite.py中是对所有的精灵组的初始化
 ## 操作说明
  ← 向左移动<br>
  → 向右移动<br>
- ![Image text]()
+ ###游戏界面
+ ![Image text](https://github.com/latemaple/game_aircraftwar/blob/master/display/game.png)
  

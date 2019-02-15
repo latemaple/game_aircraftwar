@@ -1,4 +1,5 @@
 # game_aircraftwar
+ ![Image text](https://github.com/latemaple/game_aircraftwar/blob/master/display/game.png)
 ## 介绍
 aircraft war<br>
 这是一个飞机大战的小游戏程序<br>
@@ -9,6 +10,6 @@ plan_sprite.py中是对所有的精灵组的初始化
 ## 操作说明
  ← 向左移动<br>
  → 向右移动<br>
- ###游戏界面
- ![Image text](https://github.com/latemaple/game_aircraftwar/blob/master/display/game.png)
+
+
  
